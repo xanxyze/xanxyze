@@ -39,4 +39,4 @@
 <h3></h3>
 <h3 align="center" width="100%">@xanxyze</h3>
 
-<h6 align="center" width="100%">The content in this repository may not be copied or used without permission. Copyright © 2025, @xanxyze. All rights reserved.</h6>
+<h6 align="center" width="100%">The content in this repository may not be copied or used without permission. Copyright © 2026, @xanxyze. All rights reserved.</h6>
