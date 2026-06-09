@@ -16,7 +16,7 @@
 <p align="left" width="100%">
 <h3 align="left" width="100%">Currently Learning</h3>
 <p align="left" width="100%">
-    <a href="https://itis.top/"><img src="https://img.shields.io/badge/Basic Machine Learning With TensorFlow-FFB6C1?&labelColor=FF1493&style=for-the-badge&logo=tensorflow&logoColor=white" /></a>    <a href="https://itis.top/"><img src="https://img.shields.io/badge/JS-FFB6C1?&labelColor=FF1493&style=for-the-badge&logo=javascript&logoColor=white" /></a>    <a href="https://itis.top/"><img src="https://img.shields.io/badge/JSON-FFB6C1?&labelColor=FF1493&style=for-the-badge&logo=json&logoColor=white" /></a>    
+    <a href="https://itis.top/"><img src="https://img.shields.io/badge/Swift-FFB6C1?&labelColor=FF1493&style=for-the-badge&logo=swift&logoColor=white" /></a>      <a href="https://itis.top/"><img src="https://img.shields.io/badge/Basic Machine Learning With TensorFlow-FFB6C1?&labelColor=FF1493&style=for-the-badge&logo=tensorflow&logoColor=white" /></a>    <a href="https://itis.top/"><img src="https://img.shields.io/badge/JS-FFB6C1?&labelColor=FF1493&style=for-the-badge&logo=javascript&logoColor=white" /></a>    <a href="https://itis.top/"><img src="https://img.shields.io/badge/JSON-FFB6C1?&labelColor=FF1493&style=for-the-badge&logo=json&logoColor=white" /></a>    
 <a href="https://itis.top/"><img src="https://img.shields.io/badge/HTML5-FFB6C1?&labelColor=FF1493&style=for-the-badge&logo=html5&logoColor=white" /></a>   
  <a href="https://itis.top/"><img src="https://img.shields.io/badge/CSS3-FFB6C1?&labelColor=FF1493&style=for-the-badge&logo=css&logoColor=white" /></a>    
 <a href="https://itis.top/"><img src="https://img.shields.io/badge/PHP-FFB6C1?&labelColor=FF1493&style=for-the-badge&logo=php&logoColor=white" /></a>   
